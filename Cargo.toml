@@ -1,0 +1,8 @@
+
+[workspace]
+members = [
+	'apps/backend',
+]
+
+[profile.release]
+lto = true
